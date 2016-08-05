@@ -1,0 +1,27 @@
+_repo: Ridgeway--An-Historical-Romance-of-the-Fenian-Invasion-of-Canada_9476
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dubh, Scian
+    alias: McCarroll, James
+    birthdate: 1815
+    deathdate: 1896
+    gutenberg_agent_id: '3068'
+    url: http://www.gutenberg.org/2009/agents/3068
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9476'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Ridgeway, Battle of, Ridgeway, Ont., 1866 -- Fiction'
+- !lcsh 'Canada -- History -- Fenian invasions, 1866-1870 -- Fiction'
+- !lcsh 'Fenians -- History -- Fiction'
+- GITenberg
+title: 'Ridgeway: An Historical Romance of the Fenian Invasion of Canada'
+url: http://www.gutenberg.org/ebooks/9476
